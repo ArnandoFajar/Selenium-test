@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "image-downloader": "^4.3.0",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.8.2"
+  },
+  "scripts": {
+    "test": "mocha --timeout 60000"
+  }
+}
